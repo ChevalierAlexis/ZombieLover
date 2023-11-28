@@ -79,3 +79,4 @@ Trash/*
 *.ini
 *.log
 *.bin
+!Config/DefaultInput.ini
