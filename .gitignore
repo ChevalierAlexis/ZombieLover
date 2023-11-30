@@ -75,7 +75,7 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 # Rajouts
-Trash/*
+Trash/
 *.ini
 *.log
 *.bin
