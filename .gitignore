@@ -80,3 +80,5 @@ Trash/
 *.log
 *.bin
 !Config/DefaultInput.ini
+!Saved/Config/WindowsEditor/Engine.ini
+Content/Levels/L_Diorama_G.umap
