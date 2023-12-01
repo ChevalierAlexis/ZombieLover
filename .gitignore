@@ -80,3 +80,4 @@ Trash/
 *.log
 *.bin
 !Config/DefaultInput.ini
+!Saved/Config/WindowsEditor/Engine.ini
