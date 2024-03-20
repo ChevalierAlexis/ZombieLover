@@ -81,4 +81,5 @@ Trash/
 *.bin
 !Config/DefaultInput.ini
 !Saved/Config/WindowsEditor/Engine.ini
+!Saved\Cooked\Windows\Engine\Content\EngineFonts
 Content/Levels/L_Diorama_G.umap
