@@ -1,0 +1,20 @@
+Ennemis classiques : 
+ - Les ennemis suivent l'itinéraire de patrouille qui leur a été donné.
+ - Les ennemis poursuivent le joueur lorsqu'il entre dans leur champs de vision.
+ - Les ennemis lâchent le joueur lorsque celui-ci quitte leur champs de vision pour plusieurs secondes.
+ - Les ennemis lâchent le joueur lorsqu'il entre dans un BP_Hideout.
+ - Les ennemis ne restent pas paralysés si le joueur est immobile à la limite de leur champs de visoon.
+ - Les ennemis tuent le joueur lorsqu'il est assez proche.
+ - Les ennemis retournent à leur point de garde/patrouille si ils tuent le joueur.
+ - Les ennemis ne perdent pas de vue le joueur lorsqu'il se sépare.
+ - Les ennemis attaquent une partie du corps non contrôlée par le joueur si elle est plus proche.
+ - Les ennemis se concentrent sur la partie du corps visible la plus proche.
+ - Les ennemis ne perdent pas le focus lorsque le joueur change de partie.
+
+Perte de contrôle : 
+ - La perte de contrôle se déclenche en rentrant dans la trigger
+ - Le haut du corps suit son itinéraire
+ - Le haut attaque les ennemis qui lui sont accessibles.
+ - Le haut ne cherche pas à attaquer les ennemis qui lui sont innacessibles.
+ - Les ennemis n'attaquent pas le haut
+ - Les ennemis attaquent et tuent le bas
