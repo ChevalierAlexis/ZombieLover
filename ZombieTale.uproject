@@ -19,6 +19,10 @@
 		{
 			"Name": "LightWeightInstancesEditor",
 			"Enabled": true
+		},
+		{
+			"Name": "FMODStudio",
+			"Enabled": false
 		}
 	]
 }
